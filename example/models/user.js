@@ -1,4 +1,4 @@
-import {delay} from 'redux-saga'
+import { delay } from '@redux-saga/delay-p';
 import {put, takeEvery} from 'redux-saga/effects'
 import Model from '../../src/Model'
 
